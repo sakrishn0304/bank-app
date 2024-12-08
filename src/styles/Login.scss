@@ -1,0 +1,17 @@
+.login_outerDiv {
+    float: right;
+    border: 2px solid;
+    min-width: 300px;
+    min-height: max-content;
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    .login_form {
+        width: auto;
+        padding-bottom: 10px;
+    }
+}
